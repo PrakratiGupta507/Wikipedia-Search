@@ -23,7 +23,6 @@ Field query e.g. title:gandhi body:arjun infobox:gandhi category:gandhi ref:gand
 supported.
 5. Result top 10 document
 ### Datasets used:
-The dataset used for our Project can be downloaded from https://dumps.wikimedia.org/enwiki/20210201.
-The dataset used for comparing our project with the baseline can be downloaded
-from https://drive.google.com/drive/folders/1W3aWf6ekS7lhsI3KZOMewykntv9aNofQ?usp=sharing.
-Output files from indexing https://drive.google.com/drive/folders/1nyfKqZjWf1Zfxs9cbvdRaXUZbVp46XAQ?usp=sharing
+1. The dataset used for our Project can be downloaded from https://dumps.wikimedia.org/enwiki/20210201.
+2. The dataset used for comparing our project with the baseline can be downloaded from https://drive.google.com/drive/folders/1W3aWf6ekS7lhsI3KZOMewykntv9aNofQ?usp=sharing.
+3. Output files from indexing https://drive.google.com/drive/folders/1nyfKqZjWf1Zfxs9cbvdRaXUZbVp46XAQ?usp=sharing
